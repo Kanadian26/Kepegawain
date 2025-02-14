@@ -8,7 +8,7 @@ if(!isset($_SESSION['username'])) {
 }
 
 // Dapatkan base URL
-$base_url = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . '/belajar/belajar_Tailwind/';
+$base_url = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . '/semester5_pemrogramanBasisData/kepegawaian/';
 ?>
 <!DOCTYPE html>
 <html lang="en">
