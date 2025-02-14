@@ -6,7 +6,7 @@ $password = "";
 $database = "db_kepegawaian";   
 
 // Definisikan base URL secara dinamis
-$base_url = 'http://' . $_SERVER['HTTP_HOST'] . '/belajar/belajar_Tailwind/';
+$base_url = 'http://' . $_SERVER['HTTP_HOST'] . '/semester5_pemrogramanBasisData/kepegawaian/';
 
 // Buat koneksi
 $koneksi = mysqli_connect($host, $username, $password, $database);
